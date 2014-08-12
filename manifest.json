@@ -150,7 +150,7 @@
         }, 
         "../build": {
             "repo": "zenoss/platform-build", 
-            "ref": "8982ea3c03b95d7e460ec455c2e6cf9b21b00722", 
+            "ref": "develop", 
             "name": "build"
         }, 
         "enterprise_zenpacks/ZenPacks.zenoss.ZenWebTx": {
