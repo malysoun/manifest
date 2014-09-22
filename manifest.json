@@ -151,7 +151,7 @@
         }, 
         "zenpacks/ZenPacks.zenoss.ControlCenter": {
             "repo": "zenoss/ZenPacks.zenoss.ControlCenter", 
-            "ref": "9223b7f2e3b26516fca86fcd04316d83442c0a7f"
+            "ref": "c3ec64b78084a1e8c17391c17a176b08e7eeed09"
         }, 
         "zenpacks/ZenPacks.zenoss.XenMonitor": {
             "repo": "zenoss/ZenPacks.zenoss.XenMonitor", 
